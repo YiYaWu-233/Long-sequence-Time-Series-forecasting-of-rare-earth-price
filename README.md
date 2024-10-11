@@ -1,2 +1,2 @@
-# Long sequence TimeSeries forecasting of rare earth price
+# Long sequence Time-Series forecasting of rare earth price
  
